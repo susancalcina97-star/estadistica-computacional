@@ -1,1 +1,0 @@
-# estadistica-computacional
